@@ -1,3 +1,5 @@
+"Cube Reflection Test 2"
+
 import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d.art3d import Poly3DCollection, Line3DCollection
 import numpy as np
